@@ -7,5 +7,7 @@ public class Main {
         HomeWorkApp homeWorkApp = new HomeWorkApp();
         homeWorkApp.printThreeWords();
         homeWorkApp.checkSumSign();
+        homeWorkApp.printColor();
+        homeWorkApp.compareNumbers();
     }
 }
